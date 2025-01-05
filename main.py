@@ -1,3 +1,3 @@
 from telegramBot import runBot
-
-runBot()
+from betGame import run
+run()
